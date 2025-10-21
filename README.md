@@ -1,6 +1,6 @@
 # 📊 Báo cáo Doanh thu Dịch vụ
 
-Ứng dụng **Streamlit** giúp tổng hợp, phân tích và hiển thị báo cáo doanh thu dịch vụ từ hệ thống **HMS / HCR**.  
+Ứng dụng **Streamlit** giúp tổng hợp, phân tích và hiển thị báo cáo doanh thu dịch vụ từ hệ thống **HMS / HCR-HPM**.  
 Hỗ trợ nhập file Excel, xử lý dữ liệu tự động và hiển thị trực quan các bảng thống kê, tỷ lệ và tổng hợp.
 
 ---
